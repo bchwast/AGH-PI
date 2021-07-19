@@ -13,9 +13,9 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-./**/.idea
-./**/cmake-build-debug
-./**/CMakeLists.txt
+**/.idea
+**/cmake-build-debug
+**/CMakeLists.txt
 
 # AWS User-specific
 .idea/**/aws.xml
