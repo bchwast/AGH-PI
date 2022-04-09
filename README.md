@@ -1,7 +1,5 @@
 # PI
 
-Zadania z ćwiczeń z roku 2020/21
+Exercises from Imperative Programming labs from 2020/21 year
 
-Zadania przechodzące wszystkie testy na OIOIOI na 100 poza ban.c, które przechodzi na 80
-
-Treści dostępne na wiki
+Solutions passed all the tests on OIOIOI with 100, except for ban.c which got 80
